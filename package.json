@@ -1,0 +1,12 @@
+{
+    "name": "detectfaces",
+    "version": "1.0.0",
+    "description": "facial recognition",
+    "main": "detectFaces.js",
+    "author": "@ryeoshi214",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Ryeo214/detectFaces.git"
+    }
+}
