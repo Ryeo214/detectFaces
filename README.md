@@ -3,4 +3,7 @@
 - Finnally, enjoy it and support us.
 - More informaton about us:
     Author: Ryeoshi
-    Create date: 09/03/2024
+- Update 1.0.2:
+    + This update will allow file image or video: mp4 
+    + You can do this with path to your file and system will auto detect that is image or video
+    + It requires module name "fs", it is default module in nodejs so remember to import it before you run your script
